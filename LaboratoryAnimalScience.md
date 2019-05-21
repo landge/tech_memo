@@ -1,3 +1,11 @@
+---
+layout: default
+title: AnimalScience
+nav_order: 1
+has_children: true
+---
+
+
 ## [nationallegislation](nationallegislation)
 ## [ethicsanimalthreer](ethicsanimalThreeR)
 ## [basicandappropriatebiology](basicAndAppropriateBiology)
@@ -10,6 +18,9 @@
 ## [principlesofsurgery](principlesOfSurgery)
 ## [usingproductionanimals](usingproductionAnimals)
 ## [healthmonitoringoflabanimals](healthMonitoringOfLabAnimals)
+
+
+
 
 
 
