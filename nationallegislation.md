@@ -5,6 +5,7 @@ Limit the number of experimental animals
 1.	Replace -- find alternatives
 2. 	Reduce  -- reduce to minimum
 3. 	Refine -- improving procedures
+4. 	Relevance -
 
 ## The Norwegian Animal Welfare Act
 
