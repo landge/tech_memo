@@ -50,3 +50,33 @@ ear-marking
 below threshold procedures
 approval for maximum 4 years
 field experiments for 2 years
+all experiments have to be severity classified.
+
+Terminal - non-recovery
+Moderate
+Mild
+Moderate
+Severe - lang lasting severe experiments are prohibited
+
+## Animals and animal husbandry
+
+restrictions for endangered species, primates (should not be used, gorillas are prohibited), wild animals!
+required approvement of breeder
+Horses can be purchased from farms
+stray animals shall not be used!
+
+Husbandry: accomodation, environment, food, water and care.
+Animal journal, animal records
+should be kept for 5 years
+
+## Norwegian management system
+
+98% of all research animals are fish
+850 applications per year
+Food Safety Authority (FSA)
+applications is handled by one advisor of the FSA, may consult experts
+all applications have to be submitted through FOTS
+report number of animals and protocol changes
+retrospective assessment is required for severe experiments
+applicant -> PMSK -> FOTS
+no national comittee in Norway
